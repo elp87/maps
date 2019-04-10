@@ -11050,4 +11050,11 @@ Nod2=1,1864,0
 Nod3=2,1863,0
 [END]
 
+[POI]
+Type=0x5b07
+Label=Шатле Ле-Аль (RER)
+EndLevel=1
+Data0=(48.86180,2.34730)
+[END]
+
 ;@FILE,"C:\Users\Alexandr\Downloads\Париж2.gpx",1,"..\..\..\Downloads\Париж2.gpx"
